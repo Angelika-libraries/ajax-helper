@@ -1,0 +1,19 @@
+{
+  "name": "ajax-helper",
+  "version": "1.0.0",
+  "description": "Simple tool to speed up ajax calls",
+  "main": "index.js",
+  "scripts": {
+    "test": "\"echo \\\"Error: no test specifies \\\" && exit 1\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Angelika-libraries/ajax-helper.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Angelika-libraries/ajax-helper/issues"
+  },
+  "homepage": "https://github.com/Angelika-libraries/ajax-helper#readme"
+}
