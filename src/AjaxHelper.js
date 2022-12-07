@@ -25,7 +25,6 @@ export default class AjaxHelper {
             this.xhr.responseType = 'json';
             if (this.onResponseOk !== null) {
                 this.xhr.onload = () =>this.onResponseOk(this.xhr.response);
-
             }
             this.xhr.send();
         }
